@@ -10,3 +10,5 @@ evitar caer en sus trampas o no llegarás a salvarlx.
 
 Copiar la secuencia de flechas impresa en la pantalla para que el personaje esquive los obstáculos.
 
+![](/img/portadajuego.png)
+
