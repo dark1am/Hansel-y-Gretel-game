@@ -2,9 +2,12 @@
 
 Juego producido enteramente con Vanilla JavaScript.
 
+[JUGAR ONLINE](https://dark1am.itch.io/hansel-y-gretel-js-game)
 
-> La bruja malvada ha secuestrado a tu hermanx, ya seas Hansel o Gretel debes
+```
+La bruja malvada ha secuestrado a tu hermanx, ya seas Hansel o Gretel debes
 evitar caer en sus trampas o no llegarás a salvarlx.
+```
 
 #### Jugabilidad
 
