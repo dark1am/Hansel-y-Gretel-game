@@ -1,8 +1,8 @@
 ## Hansel y Gretel- Canvas game ##
 
-[JUGAR ONLINE](https://dark1am.itch.io/hansel-y-gretel-js-game)
+Juego producido enteramente con Vanilla JavaScript. [JUGAR ONLINE](https://dark1am.itch.io/hansel-y-gretel-js-game)
 
-> Juego producido enteramente con Vanilla JavaScript.
+#### Lore
 
 ```
 La bruja malvada ha secuestrado a tu hermanx, ya seas Hansel o Gretel debes
